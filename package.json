@@ -1,0 +1,17 @@
+{
+  "name": "lambda-test-advancestation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^2.0.9",
+    "aws-sdk": "^2.251.1",
+    "jsonwebtoken": "^8.3.0",
+    "node-fetch": "^2.1.2"
+  }
+}
